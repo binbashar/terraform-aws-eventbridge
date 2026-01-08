@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file.
 
+## [4.3.0](https://github.com/terraform-aws-modules/terraform-aws-eventbridge/compare/v4.2.2...v4.3.0) (2026-01-08)
+
+### Features
+
+* Add provider meta user-agent ([#189](https://github.com/terraform-aws-modules/terraform-aws-eventbridge/issues/189)) ([36221d3](https://github.com/terraform-aws-modules/terraform-aws-eventbridge/commit/36221d3736246b07242db2a5362d2f182a40bf11))
+
 ## [4.2.2](https://github.com/terraform-aws-modules/terraform-aws-eventbridge/compare/v4.2.1...v4.2.2) (2025-10-21)
 
 ### Bug Fixes
